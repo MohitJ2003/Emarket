@@ -1,0 +1,17 @@
+{
+  "name": "emarket",
+  "version": "1.0.0",
+  "description": "Created A Web App using MEAN",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
